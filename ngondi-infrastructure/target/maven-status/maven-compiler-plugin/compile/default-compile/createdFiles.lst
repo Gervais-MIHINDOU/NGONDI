@@ -1,0 +1,10 @@
+ngondi\ged\ga\infrastructure\NgondiInfrastructureApplication.class
+ngondi\ged\ga\infrastructure\service\IArchivageDao.class
+ngondi\ged\ga\infrastructure\service\FournisseurImpl.class
+ngondi\ged\ga\infrastructure\model\StatistiqueFournisseurEntity.class
+ngondi\ged\ga\infrastructure\model\FournisseurEntity.class
+ngondi\ged\ga\infrastructure\service\Conf.class
+ngondi\ged\ga\infrastructure\service\IFournisseurDao.class
+ngondi\ged\ga\infrastructure\PersistenceConfiguration.class
+ngondi\ged\ga\infrastructure\model\DocumentEntity.class
+ngondi\ged\ga\infrastructure\service\ArchivageImpl.class

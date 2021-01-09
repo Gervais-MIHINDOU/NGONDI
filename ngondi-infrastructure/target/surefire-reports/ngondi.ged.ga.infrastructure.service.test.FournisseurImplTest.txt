@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 2.462 s <<< FAILURE! - in ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest
+testGetFournisseurs(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testGetFournisseurs(FournisseurImplTest.java:178)
+
+testUpdateFournisseur(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testUpdateFournisseur(FournisseurImplTest.java:158)
+
+testGetFournisseursByActivity(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testGetFournisseursByActivity(FournisseurImplTest.java:199)
+
+testDeleteFournisseur(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testDeleteFournisseur(FournisseurImplTest.java:119)
+
+testGetDocOfFournisseurs(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testGetDocOfFournisseurs(FournisseurImplTest.java:77)
+
+testDeleteDocOfFournisseur(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testDeleteDocOfFournisseur(FournisseurImplTest.java:54)
+
+testGetFournisseur(ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.IllegalArgumentException: Source must not be null
+	at ngondi.ged.ga.infrastructure.service.test.FournisseurImplTest.testGetFournisseur(FournisseurImplTest.java:99)
+

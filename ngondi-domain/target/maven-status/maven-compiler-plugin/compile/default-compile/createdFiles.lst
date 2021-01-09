@@ -1,0 +1,11 @@
+ngondi\ged\ga\domain\archivage\IFournisseur.class
+ngondi\ged\ga\domain\archivage\structure\DocumentInput.class
+ngondi\ged\ga\domain\archivage\structure\FournisseurInput.class
+ngondi\ged\ga\domain\archivage\structure\FournisseurOuput.class
+ngondi\ged\ga\domain\NgondiDomainApplication.class
+ngondi\ged\ga\domain\archivage\structure\StatistiqueFournisseurOutput.class
+ngondi\ged\ga\domain\archivage\ArchivageException.class
+ngondi\ged\ga\domain\archivage\structure\StatistiqueFournisseur.class
+ngondi\ged\ga\domain\archivage\structure\DocumentOutput.class
+ngondi\ged\ga\domain\archivage\IArchivage.class
+ngondi\ged\ga\domain\archivage\FournisseurException.class
